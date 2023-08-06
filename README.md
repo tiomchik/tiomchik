@@ -1,3 +1,5 @@
-# ello im tyoma and Im a future backend developer!!:D
+# ello im tyoma and Im a future backend developer(maybe fullstack)!!:D
 
-I'll be create some web apps on Django and publish my projects to GitHub. I also recently started to learn C++, and projects on this language are coming soon too:)
+I'll be creating some web apps on Django and publish my projects to GitHub. have a little more than a basic knowledge of HTML and CSS(and JS, but he's only in my plans for now).
+
+always glad to contribute with you in Django projects!:)
